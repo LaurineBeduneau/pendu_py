@@ -18,7 +18,7 @@ Ce projet est une implémentation du **Jeu du Pendu** (Hangman) en Python en uti
 
 1. **Cloner le projet** :
    ```bash
-   git clone https://github.com/LaurineBeudneau/pendu_py.git
+   git clone https://github.com/LaurineBeduneau/pendu_py.git
 
 2. **Installer Pygame** : Si vous n'avez pas encore installé Pygame, vous pouvez le faire avec pip :
 
