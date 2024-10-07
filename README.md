@@ -18,8 +18,7 @@ Ce projet est une implémentation du **Jeu du Pendu** (Hangman) en Python en uti
 
 1. **Cloner le projet** :
    ```bash
-   git clone https://github.com/votre_nom/hangman-pygame.git
-   cd hangman-pygame
+   git clone https://github.com/LaurineBeudneau/pendu_py.git
 
 2. **Installer Pygame** : Si vous n'avez pas encore installé Pygame, vous pouvez le faire avec pip :
 
@@ -38,11 +37,11 @@ Pour lancer le jeu, exécutez simplement le script Python :
 
 bash
 ```
-python3 hangman.py
+python3 main.py
 ```
 ## Fichiers importants
 
-- **hangman.py** : Le script principal qui initialise Pygame, gère les événements du jeu et dessine le stickman.
+- **main.py** : Le script principal qui initialise Pygame, gère les événements du jeu et dessine le stickman.
 - **task9.py** : Le fichier contenant la logique du jeu (gestion des erreurs, vérification des victoires, etc.).
 - **fond-vectoriel.jpg** : L'image de fond utilisée pour l'interface graphique du jeu (nommez l'image comme vous le souhaitez).
 
@@ -54,7 +53,7 @@ bash
 ```
 hangman-pygame/
 │
-├── hangman.py           # Script principal du jeu
+├── main.py           # Script principal du jeu
 ├── task9.py             # Logique du jeu (gestion des erreurs, victoire/défaite, etc.)
 ├── fond-vectoriel.jpg    # Image de fond pour l'interface graphique
 ├── my_wordlist.txt       # Fichier contenant une liste de mots à deviner
