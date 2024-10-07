@@ -73,3 +73,4 @@ Si le stickman est complètement dessiné avant que le mot soit découvert, le j
 
 - Ajout de niveaux : Vous pouvez ajouter des niveaux de difficulté avec des mots plus ou moins longs.
 - Multijoueur : Implémenter une version multijoueur où les joueurs peuvent s'affronter pour deviner le mot plus rapidement.
+- Utilisation de my_wordlist.txt : Modifier le code pour permettre au joueur de choisir un fichier de mots personnalisé pour améliorer l'expérience de jeu.
