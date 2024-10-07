@@ -51,7 +51,7 @@ Voici la structure de base du projet :
 
 bash
 ```
-hangman-pygame/
+pendu_py/
 │
 ├── main.py           # Script principal du jeu
 ├── task9.py             # Logique du jeu (gestion des erreurs, victoire/défaite, etc.)
