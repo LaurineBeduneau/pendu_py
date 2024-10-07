@@ -55,9 +55,11 @@ bash
 hangman-pygame/
 │
 ├── hangman.py           # Script principal du jeu
-├── task9.py             # Logique du jeu (gestion des erreurs, victoire/défaite, etc)
+├── task9.py             # Logique du jeu (gestion des erreurs, victoire/défaite, etc.)
 ├── fond-vectoriel.jpg    # Image de fond pour l'interface graphique
+├── my_wordlist.txt       # Fichier contenant une liste de mots à deviner
 └── README.md            
+         
 ```
 
 ## Fonctionnement du jeu
